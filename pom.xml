@@ -64,4 +64,16 @@
       </plugins>
     </pluginManagement>
   </build>
+   <servers>
+    <server>
+      <id>nexus-snapshots</id>
+      <username>PrasannaGirhe</username>
+      <password>Priteeprasanna@123</password>
+    </server>
+    <server>
+      <id>nexus-releases</id>
+      <username>PrasannaGirhe</username>
+      <password>Priteeprasanna@123</password>
+    </server>
+  </servers>
 </project>
